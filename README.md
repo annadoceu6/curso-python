@@ -68,7 +68,7 @@ O livro [How to Think Like a Computer Scientist de Jeffrey Elkner, Allen B. Down
 
 ### 1º Dia de ambientação com as ferramentas e introdução ao interpretador Python
 
-- 1º Perguntas de Orientação:
+- 1º Perguntas de OrientAção:
     - [ Por que entender algoritmos e aprender programação?](https://youtu.be/-omDeXEli4A)
     - [Qual é o ciclo de vida de um programa?](https://youtu.be/Dlcna6peoms)
 
@@ -116,6 +116,7 @@ O livro [How to Think Like a Computer Scientist de Jeffrey Elkner, Allen B. Down
       - Começe pelo arquivo de sumário ([SUMMARY.md](https://github.com/PyLadiesRio/workshop-python/blob/master/SUMMARY.md))
       - E em seguida pelo [arquivo de que explica o que é um DOJO](https://github.com/PyLadiesRio/workshop-python/blob/master/regras_dojo.md)
       - Para exercitar o conteúdo dessa sessão faça as atividades que estão em DOJO 1, DOJO 2, DOJO 3 e DOJO 4.
+  5. [Formatação de Strings - Python String Format Cookbook | Marcus Kazmierczak](https://mkaz.blog/working-with-python/string-formatting/)
       
 ### 3º Condicionais
 
@@ -219,17 +220,21 @@ E podemos entender Framework da mesma forma que entendemos Biblioteca. Só que o
 Em programação a **Sintaxe** representa as regras que a gente precisa seguir para que a nossa mensagem seja entendida pelo nosso ouvinte. Então se vamos escrever um programa em Python, temos que respeitar a Sintaxe do Python. Se queremos escrever um texto em Markdown, vamos precisar seguir a Sintaxe do Markdown.
 
 Já a **Semântica** da linguagem de programação trata do significado das expressões usadas na respectiva linguagem, é o que vai garantir que o print() deve imprimir a variável que lhe foi passada ao invés elevar ela ao quadrado, por exemplo. Semântica também é a relação entre o que gostaríamos que o código fizesse e o que de fato escrevemos para ele fazer.
-- [Qual a diferença entre sintaxe e semântica?](https://kenzie.com.br/blog/valor-semantico/)
+- [Qual a diferença entre sintaxe e semântica? | Ugo Roveda em Kenzie](https://kenzie.com.br/blog/valor-semantico/)
 
 #### Paradigmas de Programação
 
-- https://blog.betrybe.com/tecnologia/paradigmas-de-programacao/
+- [Paradigmas de programação: o que são e quais os principais? | Cairo Noleto em Trybe](https://blog.betrybe.com/tecnologia/paradigmas-de-programacao/)
 
 #### Arquitetura WEB
 
 - [O Modelo Cliente Servidor | GTA UFRJ](https://www.gta.ufrj.br/ensino/eel878/redes1-2016-1/16_1/p2p/modelo.html)
 
 ## Indicações de Materiais para Estudo de Temas Relacionados
+
+### API
+- [Introdução a API com Flask | PyLadies Salvador](https://github.com/PyLadiesSalvador/intro-api)
+- [Tipos de Parâmetros nas requisições REST | Thiago Marinho em Blog da Rocketseat](https://blog.rocketseat.com.br/tipos-de-parametros-nas-requisicoes-rest/)
 
 ### Análise, Ciência e Visualização de Dados
 -  [ O QUE É UM BANCO DE DADOS? | Computação para Curiosos  | Programação Dinâmica - Kizzy Terra](https://www.youtube.com/watch?v=P6uiLQ6F7Mo&list=PL5TJqBvpXQv4m5Uhe5Veq2alDwd_JIJOu&index=1&pp=iAQB)
